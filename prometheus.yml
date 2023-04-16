@@ -26,4 +26,4 @@ scrape_configs:
     # scheme defaults to 'http'.
 
     static_configs:
-      - targets: ["my_service:910"]
+      - targets: ["my_service:9100"]

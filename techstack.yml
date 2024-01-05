@@ -1,7 +1,8 @@
 repo_name: DVDemon/hl_mai_24_prometheus
-report_id: 57387467ceb7601bb61ea081a5dfa1be
+report_id: a46a4f608f0e41efda92634094627807
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:12:37+00:00'
+timestamp: '2024-01-05T08:57:39+00:00'
 requested_by: DVDemon
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Dmitriy Dzyuba
   last_updated_on: 2023-04-16 09:38:45.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Dmitriy Dzyuba
   last_updated_on: 2023-04-16 09:38:45.000000000 Z
@@ -48,6 +52,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus/blob/master/CMakeLists.txt
   detection_source: CMakeLists.txt
   last_updated_by: Dmitriy Dzyuba
   last_updated_on: 2023-04-16 09:38:45.000000000 Z
@@ -59,6 +64,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -69,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -78,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus
   detection_source: Repo Metadata
 - name: Grafana
   description: Open source Graphite &amp; InfluxDB Dashboard and Graph Editor
@@ -88,6 +96,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2645/default_8f9d552b144493679449b16c79647da5787e808b.jpg
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Dmitriy Dzyuba
   last_updated_on: 2023-04-16 09:38:45.000000000 Z
@@ -101,6 +110,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Dmitriy Dzyuba
   last_updated_on: 2023-04-16 09:38:45.000000000 Z
@@ -112,6 +122,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus/blob/master/CMakeLists.txt
   detection_source: CMakeLists.txt
   last_updated_by: Dmitriy Dzyuba
   last_updated_on: 2023-04-16 09:38:45.000000000 Z
@@ -124,6 +135,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus
   detection_source: Repo Metadata
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
@@ -133,6 +145,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/DVDemon/hl_mai_24_prometheus/blob/master/my_service/Dockerfile
   detection_source: my_service/Dockerfile
   last_updated_by: Dmitriy Dzyuba
   last_updated_on: 2023-04-16 09:38:45.000000000 Z
